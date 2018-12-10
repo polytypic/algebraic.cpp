@@ -1,0 +1,8 @@
+[submodule "requires/polyfill.cpp/v1"]
+	path = requires/polyfill.cpp/v1
+	url = https://github.com/per-framework/polyfill.cpp.git
+	branch = v1
+[submodule ".cppsm"]
+	path = .cppsm
+	url = https://github.com/cppsm/cppsm-boilerplate.git
+	branch = master
